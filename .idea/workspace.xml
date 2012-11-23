@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7df35f3a-6274-4f7b-9759-97652d482af1" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
     </list>
     <ignored path="2DEV2_bombeyJens_CP3_GitTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -436,7 +435,11 @@
       <created>1353658413414</created>
       <updated>1353658413414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Begin project Test">
+      <created>1353658672741</created>
+      <updated>1353658672741</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
